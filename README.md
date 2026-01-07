@@ -34,9 +34,6 @@ This interface integrates the deep learning model and the NLP assistant into a s
 This project was developed as a team collaboration.  
 My work focused on model development, system integration, and experimentation within the overall project.
 
-Original collaboration repository:  
-https://github.com/<partner-username>/<original-repo-name>
-
 ## Disclaimer
 This project is for educational and research purposes only.  
 The code should be modified and validated before any real-world or clinical use.
