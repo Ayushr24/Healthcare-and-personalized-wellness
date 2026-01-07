@@ -22,17 +22,19 @@ It assists users by:
 
 ### Web Application
 The repository also includes JSON, HTML, CSS, and Python files that together form an end-to-end web-based application.  
-This interface integrates the deep learning model and the NLP assistant into a single user-facing platform.
+This interface integrates the deep learning model and the NLP assistant into a single user-facing platform.  
 
 ## My Contribution
-- Designed and implemented the core deep learning classification model  
-- Built the training and evaluation pipeline  
-- Integrated the NLP chatbot with the prediction system  
-- Led system-level integration and testing  
+- Contributed to the design and implementation of the deep learning classification model  
+- Worked on building the training and evaluation pipeline  
+- Assisted in integrating the NLP chatbot with the prediction system  
+- Contributed to system-level integration, testing, and experimentation  
 
 ## Collaboration & Credits
-This project was developed as a team collaboration.  
-My work focused on model development, system integration, and experimentation within the overall project.
+This project was developed collaboratively as a team effort.  
+My contributions focused primarily on model development, system integration, and experimentation.
+
+Original repository: https://github.com/Ashishnain2004/HealthClassification
 
 ## Disclaimer
 This project is for educational and research purposes only.  
